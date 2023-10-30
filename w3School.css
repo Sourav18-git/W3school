@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+ 
+    
+}
+.w3School-logo img{
+     /* margin-top: 4px; */
+    margin-left: 15px; 
+    width: 4%;
+}
+header{
+    height: 65px;
+    background-color:gray;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
